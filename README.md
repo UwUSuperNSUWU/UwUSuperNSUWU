@@ -17,7 +17,7 @@ Soy un desarrollador de software con pasión por la tecnología y la programaci�
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Contacto
-- [Instagram](https://www.instagram.com/in/6_bloq)
+- [Instagram](https://www.instagram.com/6_bloq)
 - [Correo Electrónico](mailto:supernsprivado@gmail.com)
 <!--
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
