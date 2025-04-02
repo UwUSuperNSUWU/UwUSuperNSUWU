@@ -19,6 +19,10 @@ Soy un desarrollador de software con pasión por la tecnología y la programaci�
 ### Contacto
 - [Instagram](https://www.instagram.com/6_bloq)
 - [Correo Electrónico](mailto:supernsprivado@gmail.com)
+
+## TRY HACK ME
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4384907" style='border:none;'></iframe>
+
 <!--
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
