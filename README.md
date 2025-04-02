@@ -21,7 +21,7 @@ Soy un desarrollador de software con pasión por la tecnología y la programaci�
 - [Correo Electrónico](mailto:supernsprivado@gmail.com)
 
 ## TRY HACK ME
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4384907" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4384907)](https://tryhackme.com/p/4384907)
 
 <!--
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
