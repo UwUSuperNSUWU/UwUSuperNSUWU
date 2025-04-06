@@ -1,8 +1,8 @@
 ## KIUBOOOOOOOO 👋
 # ¡Hola, soy 6_bloq o Ignacio! 👋
 
-- 🔭 Actualmente estoy trabajando en B.A.H (Beas And Honey)
-- 🌱 Actualmente estoy aprendiendo MachineLearning y Estudio, CiberSeguridad
+<!-- - 🔭 Actualmente estoy trabajando en B.A.H (Beas And Honey)-->
+- 🌱 Actualmente estoy aprendiendo Ciberseguridad (Pentesting)
 - 💬 Pregúntame sobre, RolePlay, Backend, Diseño, Animación y Edición
 - ⚡ Dato curioso: Duermo.
 
