@@ -16,11 +16,12 @@
 </div>
 </div>
 </div>
-# ¡Hola, soy 6_bloq o Ignacio! 👋
+
+#¡Hola, soy 6_bloq o Ignacio! 👋
 
 - 🌱 Actualmente estoy estuduciando Ciberseguridad (Pentesting)
 - 💬 Pregúntame sobre, RolePlay, Backend, Diseño, Animación y Edición
-- ⚡ Dato curioso: Duermo.
+- ⚡ Dato curioso: Duermo mucho.
 
 ## 🚀 About Me
 Soy un desarrollador de software con pasión por la tecnología y la programación. Me gusta aprender nuevas tecnologías y mejorar mis habilidades cada día.
