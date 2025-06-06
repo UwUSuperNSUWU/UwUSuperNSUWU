@@ -33,6 +33,7 @@ Soy un desarrollador de software con pasión por la tecnología y la programaci�
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sixbloq&theme=dark&border_radius=4&locale=es)](https://git.io/streak-stats)
 ### Contacto
 - [Instagram](https://www.instagram.com/6_bloq)
 - [Correo Electrónico](mailto:supernsprivado@gmail.com)
